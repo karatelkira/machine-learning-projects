@@ -14,3 +14,4 @@
 | [Логистическая регрессия](stepik_exercise_ipynb/LogisticRegression.ipynb) | Предсказание наличия болезни сердца |
 | [Метод K-ближайших](stepik_exercise_ipynb/KNearestNeighbors.ipynb) | Определение типа объекта по отправленным частотам |
 | [Метод опорных векторов](stepik_exercise_ipynb/SVM.ipynb) | Проверка на поддельное вино по химическому составу |
+| [Деревья решений и использование бустинга](stepik_exercise_ipynb/SupervisedLearningCapstoneProject.ipynb) | Использование деревьев решений для прогнозировани оттока клиентов |
